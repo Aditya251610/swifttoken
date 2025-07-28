@@ -23,6 +23,10 @@ Ensure your Go version is **1.20+**, then:
 go get github.com/Aditya251610/swifttoken@v1.0.0
 ```
 
+    💡 Tip: After installing, run this to ensure dependencies are properly resolved:
+```bash
+go mod tidy
+```
 ---
 
 ## ⚙️ Setup
